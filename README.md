@@ -138,11 +138,6 @@
 <br />
 
 ## 24년 02월
-- __[SW마에스트로 제15기 연수생 모집](https://swmaestro.org/sw/main/contents.do?menuNo=200033)__
-  - 분류: `오프라인`, `무료`, `교육`
-  - 주최: SW마에스트로
-  - 접수: 01. 08(월) ~ 02. 07(수)
-
 - __[Flutter Daegu Meetup(플러터 대구 모임)](https://festa.io/events/4735)__
   - 분류: `오프라인(대구)`, `유료`, `iOS`, `안드로이드`
   - 주최: 플러터 대구
